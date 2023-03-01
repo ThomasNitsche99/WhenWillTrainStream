@@ -22,7 +22,7 @@
 
 <div class="text-center w-full text-white">
 	<!-- three divs -->
-	<div class="flex flex-row justify-between p-4 border border-white flex-wrap">
+	<div class="flex flex-row justify-between p-4  flex-wrap">
 		<!-- img and info div -->
 		<div class="flex flex-col justify-start items-center ">
 			<h3>TrainWrecksTV</h3>
